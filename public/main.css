@@ -8,8 +8,20 @@
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
 }
+.container{
+    width: 100%;
+    background-color: black;
 
+}
+.images{
+float: left;
+padding-left: 20px;
+background-color: black;
+}
+.images img{
 
+    border-radius: 50%;
+}
 .header {
     padding: 20px;
     text-align: center;
@@ -20,10 +32,7 @@
     
   }
 
-#hmain{
 
-    background-color: purple;
-}
 
   
   
