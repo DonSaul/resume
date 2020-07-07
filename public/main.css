@@ -8,13 +8,30 @@
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
 }
+a{  color: azure;
+  font-size: 15pt;}
 
+a:active,a:hover{
+
+  font-size: 120%;
   
+  color: purple;
+  align-items: left;
+}
+
+#menu{
+
+text-align: right;
+font-size: 15pt;
+padding-right: 40px;
+padding-bottom: 20px;
+}
+
 body{
   font-family: 'Inconsolata', monospace;
   font-family: 'Ubuntu Mono', monospace;}
 #header {
-    padding: 30px;
+
    
     background:black;
     width: 100%;
