@@ -9,7 +9,7 @@
     #secondary { width:100%; margin:0; border:none; }
 }
 
-a{  color: azure;
+a{  color: white;
   font-size: 13pt;}
 
 a:active,a:hover{
@@ -58,4 +58,6 @@ body{
   
 
   
-  
+#cursor{
+  font-size: 30px;
+}
