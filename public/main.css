@@ -61,3 +61,23 @@ body{
 #cursor{
   font-size: 30px;
 }
+#parrafo:hover{
+  background-color: white;
+  color:black;
+}
+
+#content-links{
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+#parrafo2{
+  font-size: 150%;
+  color: white;
+
+}
+#parrafo2:hover{
+  background-color: white;
+  color:black;
+}
