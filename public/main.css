@@ -31,13 +31,13 @@ padding-bottom: 20px;
 body{
   font-family: 'Inconsolata', monospace;
   font-family: 'Ubuntu Mono', monospace;
-   background-color:#28302d;}
+   background-color:white}
    
    
 #header {
   text-align: center;
    
-    background-color:white;
+    background-color:black;
     width: 100%;
     color: white;
 
@@ -51,7 +51,7 @@ body{
   align-items: center;
   padding-left: 10%;
   padding-right: 10%;
-  color: white;
+  color: black;
   padding-top: 2%;
  
 }
@@ -60,10 +60,6 @@ body{
   
 #cursor{
   font-size: 30px;
-}
-#parrafo:hover{
-  background-color: white;
-  color:black;
 }
 
 #content-links{
@@ -74,7 +70,7 @@ body{
 }
 #parrafo2{
   font-size: 150%;
-  color: white;
+  color: black;
 
 }
 #parrafo2:hover{
